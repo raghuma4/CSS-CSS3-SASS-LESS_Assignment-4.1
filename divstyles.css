@@ -1,0 +1,14 @@
+		div:hover
+		{
+			/*On hovering the font color changes to red */
+			color: red;
+		}
+		div
+		{
+			/* Set display to inline-block to fit the border around the content  */
+			border: 2px solid blue;
+			display: inline-block;
+			border-radius: 5px;
+			padding: 10px 12px;
+			margin: 10px 15px;
+		}
